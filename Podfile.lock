@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.8.2)
+  - BRYXBanner (0.8.3)
+  - CoreStore (5.0.0)
+  - IQKeyboardManagerSwift (6.3.0)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.2.0)
+  - Reachability (3.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SnapKit (4.2.0)
+  - SwiftyBeaver (1.7.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BRYXBanner
+  - CoreStore
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - MJRefresh
+  - Reachability
+  - SDWebImage (~> 3.8)
+  - SnapKit
+  - SwiftyBeaver
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BRYXBanner
+    - CoreStore
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - MJRefresh
+    - Reachability
+    - SDWebImage
+    - SnapKit
+    - SwiftyBeaver
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BRYXBanner: 8cf1b119792e1cee8d7ba107297ef89f7409bc53
+  CoreStore: 9e781fffdc8450ed78d78eba2a5be5940e161c49
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyBeaver: 4cc0080d2e23f980652e28978db11a5c9da39165
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: ceb2a3af7dd40ab8cddaa3f913b047f880e7ab5e
+
+COCOAPODS: 1.6.1
