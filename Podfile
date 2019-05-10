@@ -1,7 +1,7 @@
 # source 'https://github.com/CocoaPods/Specs.git'
 
 # Uncomment the next line to define a global platform for your project
-platform :ios, '8.0'
+platform :ios, '9.0'
 
 target 'SkyKit' do
   
@@ -20,6 +20,7 @@ target 'SkyKit' do
   pod 'SnapKit'                 # 自动布局库
   pod 'MBProgressHUD'
   pod 'CoreStore'               # 数据存储
+  pod 'ChameleonFramework/Swift', :git => 'https://github.com/ViccAlexander/Chameleon.git' 
   
   #  pod 'MLeaksFinder'
   #  pod 'CryptoSwift', '~>0.7.1' #加密库
